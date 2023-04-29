@@ -1,0 +1,15 @@
+C:\Users\Даня\RiderProjects\task3_29\task3_29\bin\Debug\net6.0\task3_29.exe
+C:\Users\Даня\RiderProjects\task3_29\task3_29\bin\Debug\net6.0\task3_29.deps.json
+C:\Users\Даня\RiderProjects\task3_29\task3_29\bin\Debug\net6.0\task3_29.runtimeconfig.json
+C:\Users\Даня\RiderProjects\task3_29\task3_29\bin\Debug\net6.0\task3_29.dll
+C:\Users\Даня\RiderProjects\task3_29\task3_29\bin\Debug\net6.0\task3_29.pdb
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.csproj.AssemblyReference.cache
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.AssemblyInfoInputs.cache
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.AssemblyInfo.cs
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.csproj.CoreCompileInputs.cache
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.dll
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\refint\task3_29.dll
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.pdb
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\task3_29.genruntimeconfig.cache
+C:\Users\Даня\RiderProjects\task3_29\task3_29\obj\Debug\net6.0\ref\task3_29.dll
